@@ -1,0 +1,23 @@
+body {
+	   font-family: sans-serif;
+	   
+}
+
+
+p {
+	color: red;
+	background-color : #;
+	text-decoration: line-through;
+	font-size: 12px;
+	
+}
+
+h1 {
+	color: #008000;
+	margin: 20px;
+	padding: 40px;
+	border: 5px;
+	border-color: red;
+}
+
+h2 {
