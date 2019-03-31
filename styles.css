@@ -3,21 +3,31 @@ body {
 	   
 }
 
+#intro {
+	border = 1px;
+	color = black;
+}
 
 p {
-	color: red;
-	background-color : #;
+	color: #006400;
 	text-decoration: line-through;
 	font-size: 12px;
-	
 }
 
 h1 {
 	color: #008000;
+	background-color: #888888;
 	margin: 20px;
 	padding: 40px;
 	border: 5px;
 	border-color: red;
 }
 
+.spotlight {
+	background-color: #FEFE22;
+}
+
 h2 {
+	text-decoration: underline;
+	color: #006400;
+}
